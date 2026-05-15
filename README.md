@@ -11,12 +11,22 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suyog-Repal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Suyog-Repal&theme=tokyonight" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Suyog-Repal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" 
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Suyog-Repal&theme=tokyonight&border_radius=10" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog-Repal&layout=compact&theme=tokyonight" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog-Repal&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" 
+    height="150"
+  />
 </p>
 
 ---
